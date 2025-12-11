@@ -1,7 +1,7 @@
 🌳 FRA Atlas — Empowering Adivasi Communities With Forest Rights Awareness
 
 FRA Atlas is a digital platform built to help rural and Adivasi communities understand their legal rights over forest land under the Forest Rights Act (FRA), 2006).
-It transforms complex legal information into simple explanations, visual guides, and audio narratives, ensuring accessibility even for non-literate or first-time digital users.
+It transforms complex legal information into simple explanations, and visual guides, ensuring accessibility even for non-literate or first-time digital users.
 
 🔍 What FRA Atlas Does
 
