@@ -1,25 +1,40 @@
-🌳 FRA Atlas — Empowering Adivasi Communities With Forest Rights Awareness
+# 🌿 FRA Atlas & WebGIS Decision Support System
 
-FRA Atlas is a digital platform built to help rural and Adivasi communities understand their legal rights over forest land under the Forest Rights Act (FRA), 2006).
-It transforms complex legal information into simple explanations, and visual guides, ensuring accessibility even for non-literate or first-time digital users.
+Backend Project | SIH 2025
 
-🔍 What FRA Atlas Does
+A GIS-driven backend system designed to support the Forest Rights Act (FRA) implementation through data digitization, spatial visualization, and AI-assisted decision-making. The platform integrates WebGIS layers, FRA records, and asset-mapping intelligence to help authorities make accurate, real-time development and policy decisions.
 
-Creates awareness about individual and community forest rights
+---
 
-Reads out rights aloud for users who cannot read
+## 🚀 Features
+🗺️ Interactive WebGIS integration for spatial layers (IFR/CR/CFR, village boundaries, land-use, assets)
 
-Offers easy-to-understand guides to claims, eligibility, and land ownership
+📥 Digitization & standardization of legacy FRA data using AI/NER
 
-Supports local, rural communities in exercising their lawful rights
+🛰️ AI-powered asset mapping on satellite imagery (farms, water bodies, forest cover)
 
-Designed for clarity, accessibility, and empowerment
+🔍 Real-time FRA progress tracking across village, district, and state levels
 
-🌐 Live Website
+🧭 Decision Support System (DSS) to recommend Central Sector Schemes (CSS)
 
-👉 Visit FRA Atlas: https://sih-backend-b62h.onrender.com/
+☁ Cloud-hosted backend with secure, scalable API endpoints
 
+---
 
-🌱 Why It Matters
+## 🛠 Tech Stack
+Backend: Node.js, Express
 
-Many forest-dwelling communities remain unaware of the rights already granted to them. FRA Atlas bridges this gap by providing clear, accessible, and actionable information, helping people make informed decisions and claim their rightful land.
+Database: MongoDB / Spatial datasets
+
+AI Integration: NER models, CNN/ML classifiers for land-use detection
+
+GIS Components: WebGIS layers, shapefile processing, satellite analytics
+
+Security: CORS protection, environment variables, secure routing
+
+Deployment: Render Cloud Hosting
+
+---
+
+##  🔗 Link
+https://sih-backend-b62h.onrender.com/
